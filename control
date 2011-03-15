@@ -1,0 +1,9 @@
+Package: com.fortysixandtwo.batterytweak
+Name: Battery-Tweak
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Makes battery level available to Winterboard themes
+Maintainer: magn2o
+Author: magn2o
+Section: Tweaks
